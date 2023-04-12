@@ -4,11 +4,13 @@
 - Python tasks from HackerRank
 
 ## Content
+<div table>
 <div align="center">
 
-N|Subdomain|Tags|Task|Difffculty|Solution
+N|Task's name|Link to requirement|Difffculty|Solution
 :-|:-|:-|:-|:-:|-:
 
-1|Homeworks/HW1|Maximum possible profit| [Храбрият предприемач](https://www.hackerrank.com/contests/sda-homework-1/challenges/challenge-2649/problem) |Easy| [Hrabriqt_predpriemach.cpp](https://github.com/mariyaveleva16/Data-structures-and-algorithms/blob/main/Homework/HW1/Hrabriqt_predpriemach.cpp)
+1|Finding the percentage|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)|Easy|[Finding the percentage.py](https://github.com/Hriskata/Python/blob/main/HackerRank/source/Finding%20the%20percentage.py)
 
 </div>
+</div> 
